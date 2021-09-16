@@ -35,8 +35,8 @@
                                 "can_remove_signatory",
                                 "can_set_quorum",
                                 "can_call_engine",
-                                "can_call_engine_on_my_behalf"
-                             ]
+                                "can_get_all_engine_receipts"
+                              ]
                           }
                        },
                        {
@@ -61,8 +61,8 @@
                                 "can_set_quorum",
                                 "can_transfer",
                                 "can_call_engine",
-                                "can_call_engine_on_my_behalf
-                             ]
+                                "can_get_all_engine_receipts"
+                              ]
                           }
                        },
                        {
@@ -74,8 +74,8 @@
                                 "can_receive",
                                 "can_transfer",
                                 "can_call_engine",
-                                "can_call_engine_on_my_behalf"
-                             ]
+                                "can_get_all_engine_receipts"
+                              ]
                           }
                        },
                        {
